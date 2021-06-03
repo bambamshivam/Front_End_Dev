@@ -1,0 +1,31 @@
+h1{
+	color: blue;
+	font-style: italic;
+	font-variant: small-caps;
+	font-size: 300%;
+	text-align: center;
+}
+p{
+	color: red;
+	font-family: "Comic Sans MS",Arial;
+	line-height: 100%;
+}
+div{
+	background-color: blue;
+	font-size: xx-large;
+	line-height: 100%
+
+}
+div{
+	display: none;
+}
+h1,p{
+	background-color: #b3b3b3;
+}
+body{
+	background-color: #b3b3ff;
+
+}
+p{
+	background-color: blue;
+}
